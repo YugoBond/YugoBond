@@ -101,8 +101,8 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 | Event | Achievement | Collaborator | Date |
 |-------|-------------|--------------|------|
 | **Tivat Inovira: Mladost 2025** | 🥇 1st Place Winner | Duo with Stevan Vidović | Nov 2025 |
-| **Tivat Inovira: Mladost 2024** | 🥇 1st Place Winner | Team | 2024 |
-| **National Hackathon** |  5th Place | Team | 2024 |
+| **Tivat Inovira: Mladost 2024** | 🥇 1st Place Winner | Team | Oct 2024 |
+| **National Hackathon** |  5th Place | Team | Dec 2024 |
 
 ---
 
