@@ -50,17 +50,6 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 
 ---
 
-### **2. Tapster – Professional Networking & Digital Business Cards**
-**Role:** Full-Stack Developer | **Status:** Ongoing Development
-
-- Building a web and mobile platform connecting freelancers and businesses
-- Designed intuitive UI with Figma for seamless user experience
-- Implementing full-stack architecture with PHP backend and frontend technologies
-- **Technologies:** HTML5, CSS3, JavaScript, PHP, Figma, SQLite/MySQL
-- **Features:** Digital business card creation, profile management, networking discovery
-
----
-
 ## 🎓 Education & Certifications
 
 | Certification | Issuer | Date | Credential |
