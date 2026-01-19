@@ -1,6 +1,6 @@
 # 👋 Danilo Milašević | Upcoming Full-Stack Developer & Hackathon Winner
 
-**Location:** Tivat, Montenegro | **Status:** Secondary School Student (Graduating June 2027) | **Upcoming:** FRI Ljubljana, Computer Science Specialization (2027-2028)
+**Location:** Tivat, Montenegro | **Status:** Secondary School Student (Graduating June 2027) |
 
 ---
 
@@ -8,9 +8,9 @@
 
 I'm a **passionate software developer** and **cybersecurity enthusiast** from Montenegro with hands-on experience in **mobile app development**, **full-stack web development**, and **emerging technologies**. I've won multiple hackathons, led innovative team projects, and am actively building products that solve real-world problems. I combine technical expertise with entrepreneurial thinking and a strong commitment to continuous learning.
 
-- 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2025 Hackathon (with Stevan)
-- 🏆 **1st Place Winner** – Tivat Hackathon (Previous Year)
-- 🏆 **5th Place** – National Hackathon (Previous Year)
+- 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2025 Hackathon (with Stevan Vidović)
+- 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2024 Hackathon (Previous Year)
+- 🏆 **5th Place** – National Hackathon (december 2024)
 - 📱 **Android Developer** with focus on user-centric design and modern app architecture
 - 🔐 **Cybersecurity Scholar** – Google Cybersecurity Foundations Certificate, exploring ethical hacking
 - 🌍 **Multilingual** – Fluent in Montenegrin, English (C1 Proficiency), Croatian
@@ -31,7 +31,7 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 |------|--------|
 | **Mobile Development** | Android Studio, RecyclerView, Notifications, Constraints, App Lifecycle, Intent Management |
 | **Frontend** | HTML5, CSS3, Responsive Design, UI/UX Design |
-| **Backend** | PHP Arrays & Functions, SQL Queries, Database Design, RESTful API Design |
+| **Backend** | PHP Arrays & Functions, SQL Queries, Database Design, |
 | **Security** | Linux Administration, Ethical Hacking Foundations, NFC/Card Technology, Cybersecurity Best Practices |
 | **DevOps & Tools** | Git/GitHub (SSH), SSH Key Management, Multi-boot Linux Systems, Version Control |
 | **Design** | Figma Prototyping, UI Design, Canva, User-Centric Design Philosophy |
@@ -41,7 +41,7 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 ## 🚀 Notable Projects & Achievements
 
 ### **1. Tivat Inovira 2025: 1st Place Winner**
-**With:** Stevan | **Role:** Full-Stack Developer & Product Strategist
+**With:** Stevan Vidović | **Role:** Full-Stack Developer & Product Strategist
 
 - Led development of an innovative solution addressing local innovation challenges
 - Collaborated with Stevan on concept, design, and implementation
@@ -61,24 +61,17 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 
 ---
 
-### **3. Android Development Projects**
-**Completed Modules:**
-- **RecyclerView Implementation** – Complex list rendering with custom adapters and efficient data binding
-- **Push Notifications System** – FCM integration, notification handling, and user engagement
-- **NFC Card Programming** – Card detection, data writing/reading, practical IoT applications
-- **Constraint-Based Layouts** – Complex responsive UI design without traditional layout managers
-
----
-
 ## 🎓 Education & Certifications
 
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|-----------|
 | **Introduction to Android Mobile Application Development** | Meta (Coursera) | January 2026 | Professional Certificate |
+| **Version Control** | Meta (Coursera) | January 2026 | Professional Certificate |
 | **Foundations of Cybersecurity** | Google (Coursera) | January 2026 | Professional Certificate |
+| **Play It Safe: Manage Security Risks** | Google (Coursera) | January 2026 | Professional Certificate |
+| **Connect and Protect: Networks and Network Security** | Google (Coursera) | January 2026 | Professional Certificate |
 | **English Proficiency** | Independent | Current | C1 Level |
 | **Secondary Education** | Montenegro | Graduating June 2027 | On Track |
-| **Upcoming: FRI Ljubljana** | University of Ljubljana | 2027-2028 | Computer Science Specialization |
 
 ---
 
@@ -118,31 +111,16 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 
 ---
 
-## 📊 GitHub Statistics & Projects
-
-I regularly contribute to open-source projects, maintain multiple repositories, and use GitHub extensively for version control and collaboration. My projects span:
-
-- **Mobile Apps** – Android development with modern architecture patterns
-- **Web Applications** – PHP backend with HTML5/CSS3 frontend
-- **Utilities** – Linux scripts, security tools, and development helpers
-- **Learning Projects** – Cybersecurity tools, networking applications, and proof-of-concepts
-
-*Explore my repositories for detailed code examples, project structures, and technical documentation.*
-
----
-
 ## 🎯 Current Focus & Goals
 
 ### **2026 Goals**
 - ✅ Master advanced Android development and publish production-ready apps
 - ✅ Deepen cybersecurity knowledge and earn additional certifications
-- ✅ Build and launch Tapster platform MVP
 - ✅ Complete online courses and expand technical expertise
 - ✅ Learn 3D graphics and modeling
 - ✅ Master programming languages and tools
 - ✅ Improve WordPress skills
 - ✅ Practice public speaking and presentations
-- ✅ Complete multiple projects (Tapster, Tivat Leader, EZCatch, Tourist App)
 - ✅ Build a stronger professional network
 - ✅ Upgrade social media presence and portfolio
 
@@ -194,7 +172,7 @@ I'm always open to:
 ---
 
 ### 📈 This README is Actively Maintained
-*Last Updated: 5th January 2026*  
+*Last Updated: 19th January 2026*  
 *For the latest updates, follow my LinkedIn and GitHub activity.*
 
 ---
