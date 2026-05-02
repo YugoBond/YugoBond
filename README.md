@@ -10,6 +10,7 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 
 - 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2025 Hackathon (with Stevan Vidović)
 - 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2024 Hackathon (Previous Year)
+- 🏆 **4th Place** – National Hackathon (Wordpress, april 2026)
 - 🏆 **5th Place** – National Hackathon (december 2024)
 - 📱 **Android Developer** with focus on user-centric design and modern app architecture
 - 🔐 **Cybersecurity Scholar** – Google Cybersecurity Foundations Certificate, exploring ethical hacking
@@ -47,7 +48,7 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 - Collaborated with Stevan on concept, design, and implementation
 - Demonstrated pitch and business acumen to expert judges
 - **Technologies:** Mobile-First Design, Figma Prototyping, Team Collaboration
-
+- NextGen Adria member @ Adria Future Summit
 ---
 
 ## 🎓 Education & Certifications
@@ -56,9 +57,13 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 |---------------|--------|------|-----------|
 | **Introduction to Android Mobile Application Development** | Meta (Coursera) | January 2026 | Professional Certificate |
 | **Version Control** | Meta (Coursera) | January 2026 | Professional Certificate |
+| **Programming Fundamentals in Kotlin** | Meta (Coursera) | January 2026 | Professional Certificate |
 | **Foundations of Cybersecurity** | Google (Coursera) | January 2026 | Professional Certificate |
 | **Play It Safe: Manage Security Risks** | Google (Coursera) | January 2026 | Professional Certificate |
 | **Connect and Protect: Networks and Network Security** | Google (Coursera) | January 2026 | Professional Certificate |
+| **Tools of the Trade: Linux and SQL** | Google (Coursera) | February 2026 | Professional Certificate |
+| **Assets, Threats, and Vulnerabilities** | Google (Coursera) | May 2026 | Professional Certificate |
+| **Ethical Hacking Essentials (EHE)** | EC-Council (Coursera) | February 2026 | Professional Certificate |
 | **English Proficiency** | Independent | Current | C1 Level |
 | **Secondary Education** | Montenegro | Graduating June 2027 | On Track |
 
@@ -84,6 +89,7 @@ I'm a **passionate software developer** and **cybersecurity enthusiast** from Mo
 |-------|-------------|--------------|------|
 | **Tivat Inovira: Mladost 2025** | 🥇 1st Place Winner | Duo with Stevan Vidović | Nov 2025 |
 | **Tivat Inovira: Mladost 2024** | 🥇 1st Place Winner | Team | Oct 2024 |
+| **National Hackathon** |  4th Place | Team | Apr 2026 |
 | **National Hackathon** |  5th Place | Team | Dec 2024 |
 
 ---
@@ -161,7 +167,7 @@ I'm always open to:
 ---
 
 ### 📈 This README is Actively Maintained
-*Last Updated: 19th January 2026*  
+*Last Updated: 2nd May 2026*  
 *For the latest updates, follow my LinkedIn and GitHub activity.*
 
 ---
