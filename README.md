@@ -1,175 +1,108 @@
-# 👋 Danilo Milašević | Upcoming Full-Stack Developer & Hackathon Winner
+# Danilo Milašević
 
-**Location:** Tivat, Montenegro | **Status:** Secondary School Student (Graduating June 2027) |
+`danilo@tivat:~$ whoami`
 
----
+## Junior Full-Stack Developer · Cybersecurity & Software Development
 
-## 🎯 About Me
+I am a high-school student at **JU SMŠ “Mladost”** in Tivat, Montenegro, specialising in web and mobile application development. I build practical foundations in web development, Android, Linux, databases and cybersecurity.
 
-I'm a **passionate software developer** and **cybersecurity enthusiast** from Montenegro with hands-on experience in **mobile app development**, **full-stack web development**, and **emerging technologies**. I've won multiple hackathons, led innovative team projects, and am actively building products that solve real-world problems. I combine technical expertise with entrepreneurial thinking and a strong commitment to continuous learning.
+I learn best by making things, working with people and solving problems under real constraints. I am currently looking for junior developer opportunities, internships, open-source contributions and mentorship.
 
-- 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2025 Hackathon (with Stevan Vidović)
-- 🏆 **1st Place Winner** – Tivat Inovira: Mladost 2024 Hackathon (Previous Year)
-- 🏆 **4th Place** – National Hackathon (Wordpress, april 2026)
-- 🏆 **5th Place** – National Hackathon (december 2024)
-- 📱 **Android Developer** with focus on user-centric design and modern app architecture
-- 🔐 **Cybersecurity Scholar** – Google Cybersecurity Foundations Certificate, exploring ethical hacking
-- 🌍 **Multilingual** – Fluent in Montenegrin, English (C1 Proficiency), Croatian
-- 🎾 **Sports Enthusiast** – Football, table tennis, chess, and fitness
+[Portfolio](https://yugobond.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/danilo-milasevic) · [Email](mailto:danilo.milasevic.business@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+## At a glance
 
-### **Languages**
-- **Mobile Development:** Kotlin, Java, XML
-- **Web Development:** JavaScript (ES6+), HTML5, CSS3
-- **Backend/Database:** PHP, SQL, Python
-- **Tools & Platforms:** Git/GitHub, Android Studio, Figma, VSCode, Linux (Ubuntu, Kali, ParrotOS)
+| | |
+|---|---|
+| **Education** | Web & Mobile Application Development at JU SMŠ “Mladost” |
+| **Graduation** | June 2027 |
+| **Current average** | 4.6/5.0 |
+| **Location** | Tivat, Montenegro |
+| **Languages** | Montenegrin and English — fluent; Croatian — regional proficiency |
 
-### **Core Competencies**
-| Area | Skills |
-|------|--------|
-| **Mobile Development** | Android Studio, RecyclerView, Notifications, Constraints, App Lifecycle, Intent Management |
-| **Frontend** | HTML5, CSS3, Responsive Design, UI/UX Design |
-| **Backend** | PHP Arrays & Functions, SQL Queries, Database Design, |
-| **Security** | Linux Administration, Ethical Hacking Foundations, NFC/Card Technology, Cybersecurity Best Practices |
-| **DevOps & Tools** | Git/GitHub (SSH), SSH Key Management, Multi-boot Linux Systems, Version Control |
-| **Design** | Figma Prototyping, UI Design, Canva, User-Centric Design Philosophy |
+## Selected results
 
----
+- **1st place** — Tivat Inovira: Mladost Hackathon 2025, with Stevan Vidović
+- **1st place** — Tivat Inovira: Mladost Hackathon 2024
+- **4th place** — National programming/Web Challenge competition, 2026
+- **5th place** — National Hackathon, 2024
 
-## 🚀 Notable Projects & Achievements
+## Selected work
 
-### **1. Tivat Inovira 2025: 1st Place Winner**
-**With:** Stevan Vidović | **Role:** Full-Stack Developer & Product Strategist
+### Youth Center Tivat website
 
-- Led development of an innovative solution addressing local innovation challenges
-- Collaborated with Stevan on concept, design, and implementation
-- Demonstrated pitch and business acumen to expert judges
-- **Technologies:** Mobile-First Design, Figma Prototyping, Team Collaboration
-- NextGen Adria member @ Adria Future Summit
----
+Co-created the official website of [Youth Center Tivat](https://www.omladinskicentartivat.me) with student teammates under teacher mentorship. The project involved web development, content organisation, visual presentation and teamwork for a real local organisation.
 
-## 🎓 Education & Certifications
+### Tivat Inovira — Mladost Hackathon 2025
 
-| Certification | Issuer | Date | Credential |
-|---------------|--------|------|-----------|
-| **Introduction to Android Mobile Application Development** | Meta (Coursera) | January 2026 | Professional Certificate |
-| **Version Control** | Meta (Coursera) | January 2026 | Professional Certificate |
-| **Programming Fundamentals in Kotlin** | Meta (Coursera) | January 2026 | Professional Certificate |
-| **Foundations of Cybersecurity** | Google (Coursera) | January 2026 | Professional Certificate |
-| **Play It Safe: Manage Security Risks** | Google (Coursera) | January 2026 | Professional Certificate |
-| **Connect and Protect: Networks and Network Security** | Google (Coursera) | January 2026 | Professional Certificate |
-| **Tools of the Trade: Linux and SQL** | Google (Coursera) | February 2026 | Professional Certificate |
-| **Assets, Threats, and Vulnerabilities** | Google (Coursera) | May 2026 | Professional Certificate |
-| **Ethical Hacking Essentials (EHE)** | EC-Council (Coursera) | February 2026 | Professional Certificate |
-| **English Proficiency** | Independent | Current | C1 Level |
-| **Secondary Education** | Montenegro | Graduating June 2027 | On Track |
+Worked with Stevan Vidović on an innovation-focused solution, contributing to the concept, design, implementation and presentation. The team placed first.
 
----
+## Technical toolkit
 
-## 💼 Professional Experience
+**Programming**  
+C · C++ · HTML5 · CSS3 · JavaScript · PHP · Java · Kotlin · XML
 
-### **CineGrand** | Cinema Operator & Projectionist
-- Manage cinema operations, including projection systems and customer service
-- Developed technical problem-solving skills in high-pressure environments
-- Part-time position balancing work with intensive studies and development projects
+**Web, mobile and databases**  
+Responsive design · Android Studio · MySQL · SQL · WordPress · software testing fundamentals
 
-### **Adriatic Web3 & iGaming Awards** | Event Contributor
-- Contributed to organization of major Web3 and iGaming industry event
-- Networked with entrepreneurs, investors, and tech leaders
-- Gained insights into startup ecosystems and emerging technologies
+**Tools and systems**  
+Git · GitHub · VS Code · Figma · Linux · Ubuntu · Kali Linux · Parrot OS · SSH
 
----
+**Cybersecurity foundations**  
+Linux administration · network security foundations · ethical hacking foundations · threats and vulnerabilities · security best practices
 
-## 🏆 Hackathons & Competitions
+## Experience
 
-| Event | Achievement | Collaborator | Date |
-|-------|-------------|--------------|------|
-| **Tivat Inovira: Mladost 2025** | 🥇 1st Place Winner | Duo with Stevan Vidović | Nov 2025 |
-| **Tivat Inovira: Mladost 2024** | 🥇 1st Place Winner | Team | Oct 2024 |
-| **National Hackathon** |  4th Place | Team | Apr 2026 |
-| **National Hackathon** |  5th Place | Team | Dec 2024 |
+### Projectionist — Cinegrand MCF
 
----
+**Boka Place, Tivat · November 2025 – May 2026**
 
-## 🌟 Key Strengths
+- Monitored film reels and digital files during screenings to identify playback issues.
+- Adjusted audio levels and checked projection-booth systems for reliable operation.
+- Verified content accuracy, format compatibility and film-splice alignment.
 
-✅ **Problem Solver** – Strong analytical skills and ability to break down complex challenges  
-✅ **Team Player** – Collaborative experience in hackathons and group projects  
-✅ **Fast Learner** – Continuous skill development across multiple technology stacks  
-✅ **Entrepreneur Mindset** – Focus on building products with real market value  
-✅ **Communication** – C1 English proficiency; fluent in multiple languages; strong presentation and pitch skills  
-✅ **Linux Power User** – Multi-boot systems, SSH, command-line mastery  
-✅ **Design & Development** – Full-stack capability from UI design to backend implementation  
+### Operations Assistant — MonteMood
 
----
+**Montenegro · April 2025 – December 2025**
 
-## 🎯 Current Focus & Goals
+- Processed incoming requests and supported timely operational responses.
+- Applied quality-control checks to improve accuracy and reduce errors.
+- Coordinated communication and workloads across team members.
 
-### **2026 Goals**
-- ✅ Master advanced Android development and publish production-ready apps
-- ✅ Deepen cybersecurity knowledge and earn additional certifications
-- ✅ Complete online courses and expand technical expertise
-- ✅ Learn 3D graphics and modeling
-- ✅ Master programming languages and tools
-- ✅ Improve WordPress skills
-- ✅ Practice public speaking and presentations
-- ✅ Build a stronger professional network
-- ✅ Upgrade social media presence and portfolio
+## Leadership and community
 
-### **Health & Personal Development**
-- 💪 Bulk up to 75-80kg through consistent training
-- 🏃 Maintain consistent sleep schedule
-- 🎾 Improve table tennis and football skills
-- ♟️ Learn and perfect chess
-- 📚 Read more books
-- 🌍 Travel and explore EU countries independently
-- 🗻 Visit all national parks of Montenegro
+- **Youth Ambassador — Youth Center Tivat:** co-created the organisation’s official website and contribute to youth interviews, event coverage and local digital communication.
+- **Coordinator — IFF Porto Montenegro:** coordinated event activity and communication in a public-facing environment.
+- Volunteer with **Youth Team Tivat** and **NGO Our Action**.
+- Participated in community events including Wind Fest, Split Marathon, Boka Marathon and IFF Porto Montenegro.
+- Organised an inter-school volleyball match between SMŠ “Mladost” and KnightsBridge.
 
-### **2027-2028 Plans**
-- 🎓 Enroll at FRI Ljubljana with computer science specialization
-- 🚀 Potentially launch SaaS products or continue entrepreneurial ventures
-- 🔐 Deepen cybersecurity knowledge and explore specializations
-- 🌍 Build international network in tech sectors
+## Education and certificates
+
+**JU SMŠ “Mladost”, Tivat**  
+High School Diploma in progress · Electrical Engineering / Web and Mobile Application Development · September 2023 – June 2027
+
+**Selected certificates and courses**
+
+- Google Cybersecurity Professional Certificate — Google/Coursera, 2026
+- Ethical Hacking Essentials — EC-Council/Coursera, 2026
+- Introduction to Android Mobile Application Development — Meta/Coursera, 2026
+- Version Control — Meta/Coursera, 2026
+- Programming Fundamentals in Kotlin — Meta/Coursera, 2026
+- Web Programming: HTML, CSS and JavaScript — Logate Institute, 2023–2024
+- AI MODE ON — Outliers, 2026
+
+## What I am looking for
+
+- Junior web or full-stack developer roles
+- Android and mobile development opportunities
+- Internships and student technology programmes
+- Open-source contributions
+- Cybersecurity learning opportunities
+- Mentorship and international collaboration
 
 ---
 
-## 📱 Connected Profiles & Presence
-
-- **LinkedIn:** [linkedin.com/in/danilo-milaševic](https://linkedin.com/in/danilo-milaševic) – Full professional profile with recommendations and project details
-- **GitHub:** This repository – Code portfolio and project showcase
-- **Email:** [contact information available upon request]
-- **Location:** Tivat, Montenegro
-
----
-
-## 💡 What Drives Me
-
-I'm passionate about **building technology that matters**. Whether it's innovating in the startup ecosystem, exploring the frontiers of cybersecurity, or creating solutions that connect people, I believe in the power of software to solve real-world problems. I love the intersection of **design and development**, the thrill of **hackathons and competition**, and the continuous journey of **learning new technologies**.
-
-Beyond coding, I'm a **chess enthusiast**, **Tivat orchestra member**,  **table tennis player** and **volunteer** – all of which sharpen my strategic thinking and problem-solving abilities.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to:
-- 💬 **Collaborating** on innovative projects
-- 🎓 **Learning** from experienced developers and security professionals
-- 🌐 **Networking** with the tech communities
-- 🚀 **Discussing** startups, app ideas, and emerging technologies
-- 🔐 **Exploring** cybersecurity opportunities and research
-
-**Feel free to reach out** via LinkedIn, GitHub, or email. Let's build something great together!
-
----
-
-### 📈 This README is Actively Maintained
-*Last Updated: 2nd May 2026*  
-*For the latest updates, follow my LinkedIn and GitHub activity.*
-
----
-
-**Made with ❤️ in Tivat, Montenegro**
+`Last updated: October 2026`
